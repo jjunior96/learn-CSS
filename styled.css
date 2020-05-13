@@ -1,0 +1,18 @@
+div {
+  background-color: #7159c1;
+  margin-top: 0px;
+  /* padding-top: 30px; */
+  border: 1px solid #000;
+  max-width: 100vh;
+}
+
+p {
+  align-items: center;
+  background-color: bisque;
+  margin: 3rem 9rem;
+  /* top, right, bottom and left */
+  /* um valor: todos os lados */
+  /* dois valores: 1 - top e bottom, 2 - right e left */
+  /* tres valores: 1 - top, 2 - right e left, 3 - bottom */
+  /* quatro valores: top, right, left, bottom */
+}
